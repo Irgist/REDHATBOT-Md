@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['62895369318181']
-global.premium = ['62895369318181']
-global.ownernomer = '62895369318181'
-global.ownername = 'Koleksibot X You🔥'
-global.botname = 'REDHATBOT CLOUD 🤖'
+global.owner = ['6282388332165']
+global.premium = ['6282388332165']
+global.ownernomer = '6282388332165'
+global.ownername = 'Irgi Setiawan'
+global.botname = 'Tsukasa Bot'
 global.footer = 'By rootsec.xyz'
-global.ig = 'https://github.com/koleksibot'
+global.ig = 'https://www.instagram.com/irgisetiaone'
 global.region = 'Aku Iki Wong Jowo Soko Indonesia'
-global.sc = 'https://github.com/koleksibot'
+global.sc = 'https://github.com/irgist'
 global.myweb = 'https://wa.me/62895369318181'
-global.packname = 'Di Buat Untuk Mu'
-global.author = 'By Koleksibot'
+global.packname = '© Punya Irgi'
+global.author = 'Nyolong Mati n By Tsukasa Bot'
 global.sessionName = 'asif615'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
